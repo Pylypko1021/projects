@@ -1,0 +1,7 @@
+C:\projects\frequency_split\frequency_split\bin\Debug\frequency_split.exe.config
+C:\projects\frequency_split\frequency_split\bin\Debug\frequency_split.exe
+C:\projects\frequency_split\frequency_split\bin\Debug\frequency_split.pdb
+C:\projects\frequency_split\frequency_split\obj\Debug\frequency_split.csprojAssemblyReference.cache
+C:\projects\frequency_split\frequency_split\obj\Debug\frequency_split.csproj.CoreCompileInputs.cache
+C:\projects\frequency_split\frequency_split\obj\Debug\frequency_split.exe
+C:\projects\frequency_split\frequency_split\obj\Debug\frequency_split.pdb

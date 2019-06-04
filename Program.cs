@@ -13,10 +13,10 @@ namespace frequency_split
         {
             double frequency_start = 0;
             double frequency_end = 0;
-            Console.Write("Введите начальную частоту - ");
+            Console.Write("Введите начальную частоту_test - ");
             frequency_start = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine();
-            Console.Write("Введите конечную частоту - ");
+            Console.Write("Введите конечную частоту_test - ");
             frequency_end = Convert.ToDouble(Console.ReadLine());
             int k = 0;
 
